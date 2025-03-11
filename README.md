@@ -25,7 +25,10 @@ Enhance your SA-MP experience with custom nametags, health, armor indicators, an
 - `/tags` - Toggle the settings window  
 
 ## 📺 Preview
-![CLICK HERE!](https://streamable.com/k3dr5x)  
+Check out a preview of the mod in action!
+
+[WATCH HERE!](https://streamable.com/k3dr5x)
+
 
 ## 👤 Author
 **Wade** - [tinyurl.com/wadexc](https://tinyurl.com/wadexc)  
