@@ -24,8 +24,8 @@ Enhance your SA-MP experience with custom nametags, health, armor indicators, an
 ## 📜 Commands
 - `/tags` - Toggle the settings window  
 
-## 📺 Preview (Streamlabs Compatible)
-![Preview](https://your-image-link.com)  
+## 📺 Preview
+![CLICK HERE!](https://streamable.com/k3dr5x)  
 
 ## 👤 Author
 **Wade** - [tinyurl.com/wadexc](https://tinyurl.com/wadexc)  
