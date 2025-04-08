@@ -31,8 +31,7 @@ Check out a preview of the mod in action!
 
 
 ## 👤 Author
-**Wade** - [tinyurl.com/wadexc](https://tinyurl.com/wadexc)  
-Made for **Visuals+** - [tinyurl.com/visualsproject](https://tinyurl.com/visualsproject)  
+**ME** - hunchoXO
 
 ## 🛠️ Requirements
 - MoonLoader  
