@@ -11,32 +11,17 @@ Enhance your SA-MP experience with custom nametags, health, armor indicators, an
 ## 🛠️ Installation
 1. Download the script and place it in your `moonloader` folder.  
 2. Make sure to have the resources in `moonloader/resources/visualtags/`.  
-3. Enjoy the game.  
-
-## ⚙️ Configuration
-- A `config.json` file will be created in the `resources/visualtags/` folder.  
-- Customize the following options:
-  - `background`: Enable/disable nametag outlines  
-  - `isWhite`: Toggle white names  
-  - `distance`: Set visibility range for nametags  
-  - `showid`, `showHealth`, `showAfk`: Toggle ID, health, and AFK display  
+3. Enjoy. 
 
 ## 📜 Commands
 - `/tags` - Toggle the settings window  
 
 ## 📺 Preview
-Check out a preview of the mod in action!
 
 [WATCH HERE!](https://streamable.com/k3dr5x)
-
-
-## 👤 Author
-**ME** - hunchoXO
 
 ## 🛠️ Requirements
 - MoonLoader  
 - ImGui library  
 - SA-MP 0.3.7 R1 or R3  
-
-Enjoy the enhanced SA-MP experience! 😎
 
