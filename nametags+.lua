@@ -1,4 +1,4 @@
-script_author('Wade')
+script_author('Andre')
 script_name('Nametags')
 local memory = require('memory')
 local imgui = require('mimgui')
