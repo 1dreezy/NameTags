@@ -1,4 +1,4 @@
-script_author('Andre')
+script_author('dreezy')
 script_name('Nametags')
 local memory = require('memory')
 local imgui = require('mimgui')
@@ -365,3 +365,4 @@ function Theme()
 
     style().Colors[imgui.Col.TextSelectedBg] = imgui.ImVec4(0.5, 0.3, 0.7, 0.5)
 end
+
